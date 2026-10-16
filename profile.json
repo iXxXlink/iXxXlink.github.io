@@ -1,0 +1,23 @@
+{
+  "name": "Leo",
+  "handle": "iXxXlink",
+  "role": "Agent Engineer",
+  "company": "Alibaba",
+  "education": "Bachelor’s degree, Sichuan University",
+  "bio": "I work on agent engineering at Alibaba. I hold a bachelor’s degree from Sichuan University, and I’m building my public work around agent applications and agent infrastructure.",
+  "mission": "I want to contribute practical tools, reproducible experiments, and clear technical explanations that help make agents more useful and dependable.",
+  "homepage": "https://ixxxlink.github.io/",
+  "github": "https://github.com/iXxXlink",
+  "focus": [
+    {"name": "Agent applications", "description": "Useful workflows, tool use, and turning an idea into something people can actually use.", "tag": "APPLICATIONS"},
+    {"name": "Agent infrastructure", "description": "Execution harnesses, state, memory, and the interfaces that make agent behavior easier to inspect and improve.", "tag": "SYSTEMS"},
+    {"name": "Evaluation & reliability", "description": "Reproducible tests, failure analysis, and evidence that holds up beyond a single successful demo.", "tag": "EVIDENCE"}
+  ],
+  "projects": [
+    {"name": "Agent Observatory", "type": "Personal project", "description": "An English research reader for AI agents and agent infrastructure, with arXiv discovery, paper introductions, abstracts, topic filters, and a browser-local reading list.", "url": "https://agent-observatory.changhong-liang.chatgpt.site/", "tags": ["Research discovery", "Agents", "Infrastructure"]}
+  ],
+  "contributions": [
+    {"name": "Nuwa Skill · source-checker fix", "description": "Submitted a focused fix for source-section extraction, retaining nested headings and adding regression tests for section boundaries.", "url": "https://github.com/alchaincyf/nuwa-skill/pull/92", "label": "Pull request #92", "status": "Submitted pull request"}
+  ],
+  "verified_on": "2026-10-16"
+}
